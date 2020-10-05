@@ -1,4 +1,4 @@
-[![Header](https://github.com/magabiev/magabiev/blob/main/assets/logo.png)](https://github.com/magabiev)
+[![Header](https://github.com/magabiev/magabiev/blob/main/assets/logo1.png)](https://github.com/magabiev)
 
 ## Меня зовут Магомед я Frontend разработчик!
 
