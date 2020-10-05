@@ -15,7 +15,7 @@
 
 ### Мои работы:
 
-### Связаться со мной:?style=social&logo=appveyor)
+### Связаться со мной:
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/magabiev)
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/magabiev)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/magabievv?igshid=1jspxtrkzkf4y)
