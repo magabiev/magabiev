@@ -1,5 +1,3 @@
-[![Header](https://github.com/magabiev/magabiev/blob/main/assets/logo1.png)](https://github.com/magabiev)
-
 ## Эбиев Магомед Frontend разработчик!
 
 ### Мои навыки:
@@ -15,7 +13,7 @@
 
 ### Мои работы:
 
-- Десктопный чат на React/Redux [Код](https://github.com/magabiev/desktop-chat) | [Demo]()
+- Десктопный чат на React/Redux [Код](https://github.com/magabiev/desktop-chat)
 
 - Мобильный чат на React/Redux [Код](https://github.com/magabiev/chat-in-react) | [Demo](https://magabiev.github.io/chat/)
 
@@ -29,4 +27,5 @@
 [![VK](https://img.shields.io/badge/VK-red?style=social&logo=vk)](https://vk.com/magabiev)
 [![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://teleg.run/magabiev)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=social&logo=instagram)](https://instagram.com/magabievv?igshid=1jspxtrkzkf4y)
-[![Email](https://img.shields.io/badge/Email-red?style=social&logo=gmail)](https://magabiev1401@mail.ru)
+
+- Мой Email: magabiev1401@mail.ru
