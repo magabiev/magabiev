@@ -25,7 +25,7 @@
 
 - Мобильный чат на React/Redux [Код](https://github.com/magabiev/chat-in-react) | [Demo](https://magabiev.github.io/chat/)
 
-- FAQ сервис на Ангуляр с компонентами созданными в Stencil Js [Код в Stencil Js](https://github.com/magabiev/algolia-project-in-stenciljs) | [Код в ангуляр](https://github.com/magabiev/algolia-in-angular) | [Demo](https://magabiev.github.io/algolia-angular/)
+- FAQ сервис на Ангуляр и Stencil Js [Код в Stencil Js](https://github.com/magabiev/algolia-project-in-stenciljs) | [Код в ангуляр](https://github.com/magabiev/algolia-in-angular) | [Demo](https://magabiev.github.io/algolia-angular/)
 
 - Адаптивная верстка [Код](https://github.com/magabiev/magabiev.github.io/tree/master/portfolio-website) | [Demo](https://magabiev.github.io/portfolio-website/)
 
