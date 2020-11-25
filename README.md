@@ -1,5 +1,3 @@
-## Эбиев Магомед Frontend разработчик!
-
 ### Мои навыки:
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
