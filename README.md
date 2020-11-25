@@ -1,18 +1,26 @@
 ## Эбиев Магомед Frontend разработчик!
 
 ### Мои навыки:
-![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javaScript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Reselect](https://img.shields.io/badge/styled--components-black?style=flat-square&logo=styled-components)
+![Reselect](https://img.shields.io/badge/Reselect-black?style=flat-square&logo=reselect)
+![Redux-Thunk](https://img.shields.io/badge/Redux--Thunk-black?style=flat-square&logo=redux-thunk)
+![React-Router](https://img.shields.io/badge/React_Router-black?style=flat-square&logo=react-router)
 ![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular)
+![StencilJs](https://img.shields.io/badge/StencilJs-black?style=flat-square&logo=ionic)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=Bootstrap)
+![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
+![Prettier](https://img.shields.io/badge/Prettier-black?style=flat-square&logo=prettier)
+![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=eslint)
 
 
 ### Мои работы:
 
+- Система контроля задолженности на React/Redux [Код](https://github.com/magabiev/acr)
 - Десктопный чат на React/Redux [Код](https://github.com/magabiev/desktop-chat)
 
 - Мобильный чат на React/Redux [Код](https://github.com/magabiev/chat-in-react) | [Demo](https://magabiev.github.io/chat/)
