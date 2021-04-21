@@ -18,7 +18,7 @@
 
 ### Мои работы:
 
-- Система контроля задолженности на React/Redux [Код](https://github.com/magabiev/acr) | [Demo](https://evening-castle-26471.herokuapp.com/)
+- Система контроля задолженности на React/Redux [Код](https://github.com/magabiev/acr) | [Demo](https://acr-app.herokuapp.com/)
 
 - Десктопный чат на React/Redux [Код](https://github.com/magabiev/desktop-chat) | [Demo](https://salty-hollows-06987.herokuapp.com/)
 
