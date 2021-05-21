@@ -20,7 +20,7 @@
 
 - Система контроля задолженности на React/Redux [Код](https://github.com/magabiev/acr) | [Demo](https://acr-app.herokuapp.com/)
 
-- Десктопный чат на React/Redux [Код](https://github.com/magabiev/desktop-chat) | [Demo](https://salty-hollows-06987.herokuapp.com/)
+- Десктопный чат на React/Redux [Код](https://github.com/magabiev/desktop-chat) | [Demo](https://desktop-chat-qqqefgcf1-maagaa14011999-gmailcom.vercel.app/)
 
 - Мобильный чат на React/Redux [Код](https://github.com/magabiev/chat-in-react) | [Demo](https://magabiev.github.io/chat/)
 
